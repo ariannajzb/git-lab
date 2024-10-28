@@ -1,2 +1,5 @@
-# git-lab
+# Git and gitHub laboratory
+
 Git practice laboratory.
+
+Arianna Bravo
