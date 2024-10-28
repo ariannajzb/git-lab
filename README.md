@@ -5,6 +5,7 @@ This repository acts as a laboratory practice to understand the ropes behind Git
 
 ## Contents
 ### Images
+![Naruto icon with half his head underwater accompanied by a red frog.](link)
 
 ## References
 [Git documentation](https://docs.github.com/en)
